@@ -1,0 +1,21 @@
+    .tep {
+        
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        height: 100px;
+        width: 100px;
+    }
+    #AB{
+        padding-top: 15%;
+        padding: 10%;
+       
+    }
+    .cc{
+        padding-left: 20px;
+    }
+    #ac{
+        padding-left: 10%;
+        padding-top: 10%;
+    }
